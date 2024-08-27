@@ -1,2 +1,2 @@
-# Jenkins-Pipeline-6.2C
-SIT223 - Task 6.2C
+# Jenkins-Pipeline-6.1C
+SIT223 - Task 6.1C
