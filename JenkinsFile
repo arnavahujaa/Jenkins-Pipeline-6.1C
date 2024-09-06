@@ -16,15 +16,6 @@ pipeline {
             }
         }
 
-        stage('test') {
-            steps {
-                // Description of the stage
-                echo 'Hey There'
-                // Example of a tool
-                echo 'Example Tool: OKay!'
-            }
-        }
-
         stage('Stage 2: Unit and Integration Tests') {
             steps {
                 // Description of the stage
