@@ -43,6 +43,7 @@ pipeline {
                 echo 'This stage scans the code to ensure it adheres to best practices and coding standards. It checks for potential bugs, code smells, and vulnerabilities.'
                 // Example of a tool
                 echo 'Example Tool: SonarQube'
+difsakidnhi
             }
         }
 
