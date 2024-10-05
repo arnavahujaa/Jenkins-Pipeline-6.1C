@@ -13,7 +13,7 @@ pipeline {
                 // Description of the stage
                 echo 'The Build stage is responsible for compiling the application code. It uses a build automation tool to download necessary dependencies, compile the source code, and package it into a distributable format.'
                 // Example of a tool
-                echo 'Example Tool: Maven'
+                echo 'Example Tool: Maven, Docker'
             }
         }
 
